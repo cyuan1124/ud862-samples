@@ -15,29 +15,27 @@
  */
 package com.udacity.interpolationdemo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.internal.widget.AdapterViewCompat;
+import android.support.v7.app.AppCompatActivity;
 import android.util.DisplayMetrics;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
 import android.view.animation.Interpolator;
-import android.widget.AdapterView;
 import android.widget.Spinner;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import butterknife.OnItemSelected;
-import butterknife.OnItemSelected.Callback.*;
 
 public class MainActivity extends AppCompatActivity {
 
-    @Bind(R.id.interpolator_spinner)Spinner interpolatorSpinner;
-    @Bind(R.id.duration_spinner)Spinner duratorSpinner;
-    @Bind(R.id.textView)TextView textView;
+    @Bind(R.id.interpolator_spinner)
+    Spinner interpolatorSpinner;
+    @Bind(R.id.duration_spinner)
+    Spinner duratorSpinner;
+    @Bind(R.id.textView)
+    TextView textView;
 
     private static final String PACKAGE = "android.view.animation.";
     private static final String PACKAGE_V4 = "android.support.v4.view.animation.";
@@ -77,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
     @OnItemSelected({R.id.duration_spinner})
     void durationSelected(Spinner spinner, int position) {
         String durationString = (String) spinner.getAdapter().getItem(position);
-        switch(durationString) {
+        switch (durationString) {
             case "100ms":
                 duration = 100;
             case "900ms":
@@ -129,7 +127,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    @OnItemSelected(value=R.id.interpolator_spinner, callback = OnItemSelected.Callback.NOTHING_SELECTED)
+    @OnItemSelected(value = R.id.interpolator_spinner, callback = OnItemSelected.Callback.NOTHING_SELECTED)
     void onNothingSelected() {
 
     }

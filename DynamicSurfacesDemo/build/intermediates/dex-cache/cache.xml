@@ -2,46 +2,74 @@
 <items version="2" >
 
     <item
-        jar="/Users/james/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-aceae00c37928321d6a726aff5b8cb21559b775e.jar" />
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3de977c752dbf45461251060352aa8040dc064fc">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ac4cef2d6ed0d4ad44ab7ea9c59ea98d4957767/classes.dex" />
     </item>
     <item
-        jar="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d445ce8e037fcbdc098d761a8d6c96cbca6d2679.jar" />
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_0fd95b13a42afd63a06d04b83fa31b76dda73044/classes.dex" />
     </item>
     <item
-        jar="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/pre-dexed/debug/classes-02fbd588abe44b4c65c811b8e406be60819f8a45.jar" />
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_11fa62ea9d609196ac9309f3bb25aef72aebe1f6/classes.dex" />
     </item>
     <item
-        jar="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
-        <dex dex="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/pre-dexed/debug/classes-47020955732770e466247080646ceffed20f1228.jar" />
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="631c41e6ea4c81b313c0b46cdc2fff21a4147e2e">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3be3a6826606f298632e45efb438b7cd1633441d/classes.dex" />
     </item>
     <item
-        jar="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/pre-dexed/debug/classes-ecc1c08469c15ec241ab2584c3437953de8a49c7.jar" />
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_700f7205f4a7a80947e6638e1b2c6cf07abfe4ad/classes.dex" />
     </item>
     <item
-        jar="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="/Users/james/Repos/MaterialDesign-Demos/DynamicSurfacesDemo/app/build/intermediates/pre-dexed/debug/classes-ab36e2d9bac9234c9dd4d35a2f72a336cd1d34c2.jar" />
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_dd4808c8b4ce2a49cd2e2063c5d88f33f04f14b8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_d78a69ee0aec22781ad58c4f545d9e65f4446aa0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chenyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f544fea7c5acf934470d10be5754868f91f587c1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_44f42cbc581bdbef58bd43f8c6fcf147348cd584/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_4f471a985aa2799fd4c66da7cfe533af6f20580e/classes.dex" />
     </item>
 
 </items>

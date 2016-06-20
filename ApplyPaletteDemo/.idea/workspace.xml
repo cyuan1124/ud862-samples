@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ba245d0-6c43-40af-8c79-693fa65a270e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/libraries/appcompat_v7_22_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/libraries/design_22_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/libraries/recyclerview_v7_22_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/libraries/support_annotations_22_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/libraries/support_v4_22_2_0.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CoordinatedMotion/app/app.iml" afterPath="$PROJECT_DIR$/../CoordinatedMotion/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CoordinatedMotion/app/build.gradle" afterPath="$PROJECT_DIR$/../CoordinatedMotion/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CoordinatedMotion/build.gradle" afterPath="$PROJECT_DIR$/../CoordinatedMotion/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CoordinatedMotion/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/../CoordinatedMotion/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/gradle.xml" afterPath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/misc.xml" afterPath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../DynamicSurfacesDemo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/DynamicSurfacesDemo.iml" afterPath="$PROJECT_DIR$/../DynamicSurfacesDemo/DynamicSurfacesDemo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/app/app.iml" afterPath="$PROJECT_DIR$/../DynamicSurfacesDemo/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/app/build.gradle" afterPath="$PROJECT_DIR$/../DynamicSurfacesDemo/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/build.gradle" afterPath="$PROJECT_DIR$/../DynamicSurfacesDemo/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../DynamicSurfacesDemo/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/../DynamicSurfacesDemo/gradle/wrapper/gradle-wrapper.properties" />
     </list>
     <ignored path="ApplyPaletteDemo.iws" />
     <ignored path=".idea/workspace.xml" />
