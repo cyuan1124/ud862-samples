@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_13290dba11eb7773c1b5d6856fc338246b2541e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd36473e46893273c899a2fc397af9d580a1cf5c">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d6c94225d9cbc8035fafc52314f2f8b55050b549/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_116b2d78c8b64f472743c96f8eb33fae58b61af3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_27dbd2f38ad1f30964a7a3c4b557f4bcc1e8f3b6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chenyuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f544fea7c5acf934470d10be5754868f91f587c1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ac65482fc23d6ce71b0ba834b69e092281343ab">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_692ee6cfa12963dee9487cd1fa6d2960190dfd27/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/chenyuan/Documents/udacity/ud862-samples/CoordinatedMotion/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_1543bc2da18c101da36a9ec9fd501d0e4c7afe57/classes.dex" />
+    </item>
+
+</items>
